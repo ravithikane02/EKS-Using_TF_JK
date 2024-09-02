@@ -1,1 +1,1 @@
-# EKS-Using_TF_JK
+# EKS cluster deployment using Terraform and Jenkins
